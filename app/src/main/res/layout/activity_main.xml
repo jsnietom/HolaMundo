@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="105dp"
         android:text="@string/titulo_app"
         android:textAllCaps="false"
         android:textAppearance="@android:style/TextAppearance.Holo.Large"
@@ -36,12 +36,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="205dp"
         android:background="@android:color/transparent"
         android:text="@string/titulo_boton"
         android:textColor="#FFFFFF"
         android:textSize="20sp" />
-
-
-
 </RelativeLayout>
